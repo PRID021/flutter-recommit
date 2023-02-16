@@ -3,13 +3,11 @@
     entry: run_analyze
     language: script
     files: \.dart$
-
 -   id: flutter-format
     name: Flutter Code Format
     entry: run_format
     language: script
     files: \.dart$
-
 -   id: flutter-test
     name: Flutter Test
     entry: run_test
